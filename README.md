@@ -23,6 +23,3 @@ Obiettivo: prendere familiarità con la compilazione e l'esecuzione da linea di 
   * NOTA 3: quanto richiesto al punto (9) deve essere risolto in una sola riga di codice: non si possono dichiarare variabili
     e  tutte le operazioni devono essere svolte *internamente* alla chiamata a `IO.println()`
 11. Si compili e si esegua, verificando il funzionamento
-
-
-NOTA: QUESTO E' IN REALTA' L'ESERCIZIO 00, MI SONO SBAGLIATO
